@@ -16,6 +16,11 @@
 | 2020.07.16 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | https://www.cnblogs.com/realzhaijiayu/p/13324516.html |
 | 2020.07.17 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | https://www.cnblogs.com/realzhaijiayu/p/13333969.html |
 | 2020.07.21 | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | https://www.cnblogs.com/realzhaijiayu/p/13357428.html |
-|            |                                                              |                                                       |
+| 2020.07.22 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | https://www.cnblogs.com/realzhaijiayu/p/13363161.html |
+| 2020.07.23 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | https://www.cnblogs.com/realzhaijiayu/p/13368803.html |
+| 2020.07.24 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/)   | https://www.cnblogs.com/realzhaijiayu/p/13373983.html |
+| 2020.07.26 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | https://www.cnblogs.com/realzhaijiayu/p/13382865.html |
+| 2020.07.27 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | https://www.cnblogs.com/realzhaijiayu/p/13388619.html |
+| 2020.07.28 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | https://www.cnblogs.com/realzhaijiayu/p/13388741.html |
 |            |                                                              |                                                       |
 |            |                                                              |                                                       |
