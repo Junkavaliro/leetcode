@@ -26,5 +26,5 @@
 | 19   | 2020/7/24 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)<br />[面试题 04.03. 特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/) | [笔记：剑指 Offer 32 - I. 从上到下打印二叉树](https://www.yuque.com/zhoujx/study/cpiml5) |
 | 20   | 2020/7/28 | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)<br />[392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [笔记：104. 二叉树的最大深度&392. 判断子序列](https://www.yuque.com/zhoujx/study/lc104) |
 | 21   | 2020/7/29 | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)<br />[剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [笔记：101. 对称二叉树](https://www.yuque.com/zhoujx/study/lc101) |
-
+| 22   | 2020/7/30 | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/) | [笔记：343整数拆分](https://www.yuque.com/zhoujx/study/lc343) |
 
