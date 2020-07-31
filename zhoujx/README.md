@@ -27,4 +27,5 @@
 | 20   | 2020/7/28 | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)<br />[392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [笔记：104. 二叉树的最大深度&392. 判断子序列](https://www.yuque.com/zhoujx/study/lc104) |
 | 21   | 2020/7/29 | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)<br />[剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [笔记：101. 对称二叉树](https://www.yuque.com/zhoujx/study/lc101) |
 | 22   | 2020/7/30 | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/) | [笔记：343整数拆分](https://www.yuque.com/zhoujx/study/lc343) |
+| 23   | 2020/7/31 | [面试题 08.03. 魔术索引](https://leetcode-cn.com/problems/magic-index-lcci/) | [笔记：面试题 08.03. 魔术索引](https://www.yuque.com/zhoujx/study/rznfqt) |
 
